@@ -19,6 +19,10 @@ Languages I speak and tools I use include:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<script>
+  const currentDate = new Date().toDateString();
+</script>
+
 <!--
 **ori0nis/ori0nis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
