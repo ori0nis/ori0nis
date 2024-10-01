@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Oihane and I am... 
+## My name is Oihane and I am... 
 
 - 🌱 a Fullstack Web Development Student.
 - 🏊‍♀️🚴‍♀️🏃‍♀️ a triathlete.
