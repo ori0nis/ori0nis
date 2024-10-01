@@ -2,9 +2,9 @@
 
 My name is Oihane and I am... 
 
-🌱 a Fullstack Web Development Student.
-🏊‍♀️🚴‍♀️🏃‍♀️ a triathlete.
-📝​ a journalist.
+- 🌱 a Fullstack Web Development Student.
+- 🏊‍♀️🚴‍♀️🏃‍♀️ a triathlete.
+- 📝​ a journalist.
 
 Languages I speak and tools I use include:
 
