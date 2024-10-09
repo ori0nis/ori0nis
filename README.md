@@ -8,7 +8,11 @@ My name is Oihane and I am...
 
 Languages I speak and tools I use include:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,angular,nodejs,mysql,mongodb,php,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vite)](https://skillicons.dev)
+
+Languages and tools I'm currently studying:
+
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,java,php,mysql,mongodb)](https://skillicons.dev)
 
 <!--
 **ori0nis/ori0nis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
