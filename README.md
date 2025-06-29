@@ -6,6 +6,15 @@ My name is Oihane and I am...
 - 🏊‍♀️🚴‍♀️🏃‍♀️ a triathlete.
 - 📝​ a journalist.
 
+<div align="center">
+  <img src="https://img1.picmix.com/output/stamp/normal/5/3/0/9/779035_04af4.gif" width="100"/>
+  <br>
+  <h3>Currently working on:</h3>
+  <p style="margin-top: 0;">Educational platform with <a href="https://github.com/SatoriWare">SatoriWare</a></p>
+</div>
+<br>
+<br>
+
 Languages I speak and tools I use include:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,java,spring,hibernate,mysql)](https://skillicons.dev)
