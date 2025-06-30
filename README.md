@@ -10,7 +10,9 @@ My name is Oihane and I am...
   <img src="https://img1.picmix.com/output/stamp/normal/5/3/0/9/779035_04af4.gif" width="120"/>
   <br>
   <h3>Currently working on:</h3>
-  <p style="margin-top: 0;">Educational platform with <a href="https://github.com/SatoriWare">SatoriWare</a></p>
+  <p style="margin-top: 0;">Educational platform with <a href="https://github.com/SatoriWare">SatoriWare</a><!--  in collaboration with:</p>
+  <br>
+  <a href="https://github.com/theHELDERscrolls"><img src="https://img.shields.io/badge/GitHub-theHELDERscrolls-181717?logo=github&style=flat-square" alt="GitHub Badge"/></a><a href="https://github.com/kubaliski"><img src="https://img.shields.io/badge/GitHub-kubaliski-181717?logo=github&style=flat-square" alt="GitHub Badge"/></a><a href="https://github.com/andreapinaro"><img src="https://img.shields.io/badge/GitHub-andreapinaro-181717?logo=github&style=flat-square" alt="GitHub Badge"/></a> -->
 </div>
 <br>
 <br>
