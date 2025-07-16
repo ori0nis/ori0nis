@@ -17,7 +17,7 @@ My name is Oihane and I am...
 <br>
 <br>
 
-Languages I speak and tools I use include:
+Languages I speak and tools I use:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,js,tailwind,vite,java,spring,hibernate,mysql)](https://skillicons.dev)
 
