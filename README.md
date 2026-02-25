@@ -23,4 +23,4 @@ Languages I speak and tools I use:
 
 Languages and tools I'm currently studying:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,py,django,flask,postgres,firebase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,py,django,flask,postgres,firebase,docker)](https://skillicons.dev)
