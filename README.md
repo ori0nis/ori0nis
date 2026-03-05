@@ -2,7 +2,7 @@
 
 My name is Oihane and I am... 
 
-- 🌱 a Fullstack Web Development Student.
+- 🌱 a Fullstack Web Development student.
 - 🏊‍♀️🚴‍♀️🏃‍♀️ a triathlete.
 - 📝​ a journalist.
 
