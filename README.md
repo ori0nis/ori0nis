@@ -19,7 +19,7 @@ My name is Oihane and I am...
 
 Languages I speak and tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,js,nodejs,react,express,tailwind,vite,supabase,mongodb,java,spring,hibernate,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,js,nodejs,nextjs,react,express,tailwind,vite,supabase,mongodb,java,spring,hibernate,mysql)](https://skillicons.dev)
 
 Languages and tools I'm currently studying:
 
